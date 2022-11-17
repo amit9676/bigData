@@ -1,0 +1,22 @@
+{
+  "name": "AllConsumers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoconsumer.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "epxress": "^0.0.1-security",
+    "ioredis": "^5.2.4",
+    "kafkajs": "^2.2.2",
+    "mongodb": "^4.12.0",
+    "mssql": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
